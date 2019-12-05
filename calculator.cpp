@@ -9,7 +9,7 @@ int main()
     do{
    // cout<<"\n1.ADDITION\n 2.SUBSTRACTION\n 3.MULTIPLY\n 4.DIVISION\n 5.EXIT"<<endl;
 //cout<<"Enter your choice ";
-    cin>>ch;
+    //cin>>ch;
 
         switch(ch)
         {
